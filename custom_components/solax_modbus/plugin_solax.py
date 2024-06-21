@@ -437,39 +437,39 @@ MAX_EXPORT = [
     ('H3UE06', 12000 ), # Gen3 X3
     ('H3UE08', 14000 ), # Gen3 X3
     ('H3UE10', 15000 ), # Gen3 X3
-    ('H310', 15000 ), # Gen4 X3 TIGO
-    ('H312', 15000 ), # Gen4 X3 TIGO
-    ('H315', 16500 ), # Gen4 X3 TIGO
-    ('H430',    6300 ), # Gen4 X1 3kW?
-    ('H437',    7300 ), # Gen4 X1 3.7kW
-    ('H449',    9200 ), # Gen4 X1 5kW
-    ('H450',    9200 ), # Gen4 X1 5kW
-    ('H460',    9200 ), # Gen4 X1 6kW
-    ('H475',    9200 ), # Gen4 X1 7.5kW
-    ('PRE5',    9200 ), # Gen4 X1 RetroFit 5kW
-    ('PRI5',    9200 ), # Gen4 X1 RetroFit 5kW
-    ('F34',    10000 ), # Gen4 X3 RetroFit
-    ('H34A05',  7500 ), # Gen4 X3 A
-    ('H34A06',  6000 ), # Gen4 X3 A
-    ('H34A08', 12000 ), # Gen4 X3 A
-    ('H34A10', 15000 ), # Gen4 X3 A
-    ('H34A12', 15000 ), # Gen4 X3 A
-    ('H34A15', 16500 ), # Gen4 X3 A
-    ('H34B05',  7500 ), # Gen4 X3 B
-    ('H34B08', 12000 ), # Gen4 X3 B
-    ('H34B10', 15000 ), # Gen4 X3 B
-    ('H34B12', 15000 ), # Gen4 X3 B
-    ('H34B15', 16500 ), # Gen4 X3 B
-    ('H34C05',  7500 ), # Gen4 X3 C
-    ('H34C08', 12000 ), # Gen4 X3 C
-    ('H34C10', 15000 ), # Gen4 X3 C
-    ('H34C12', 15000 ), # Gen4 X3 C
-    ('H34C15', 16500 ), # Gen4 X3 C
-    ('H34T05',  7500 ), # Gen4 X3 T
-    ('H34T08', 12000 ), # Gen4 X3 T
-    ('H34T10', 15000 ), # Gen4 X3 T
-    ('H34T12', 15000 ), # Gen4 X3 T
-    ('H34T15', 16500 ), # Gen4 X3 T
+    ('H310',   30000 ), # Gen4 X3 TIGO
+    ('H312',   30000 ), # Gen4 X3 TIGO
+    ('H315',   30000 ), # Gen4 X3 TIGO
+    ('H430',   30000), # Gen4 X1 3kW?
+    ('H437',   30000), # Gen4 X1 3.7kW
+    ('H449',   30000), # Gen4 X1 5kW
+    ('H450',   30000), # Gen4 X1 5kW
+    ('H460',   30000), # Gen4 X1 6kW
+    ('H475',   30000), # Gen4 X1 7.5kW
+    ('PRE5',   30000), # Gen4 X1 RetroFit 5kW
+    ('PRI5',   30000), # Gen4 X1 RetroFit 5kW
+    ('F34',    30000), # Gen4 X3 RetroFit
+    ('H34A05', 30000), # Gen4 X3 A
+    ('H34A06', 30000), # Gen4 X3 A
+    ('H34A08', 30000), # Gen4 X3 A
+    ('H34A10', 30000), # Gen4 X3 A
+    ('H34A12', 30000), # Gen4 X3 A
+    ('H34A15', 30000), # Gen4 X3 A
+    ('H34B05', 30000), # Gen4 X3 B
+    ('H34B08', 30000), # Gen4 X3 B
+    ('H34B10', 30000), # Gen4 X3 B
+    ('H34B12', 30000), # Gen4 X3 B
+    ('H34B15', 30000), # Gen4 X3 B
+    ('H34C05', 30000), # Gen4 X3 C
+    ('H34C08', 30000), # Gen4 X3 C
+    ('H34C10', 30000), # Gen4 X3 C
+    ('H34C12', 30000), # Gen4 X3 C
+    ('H34C15', 30000), # Gen4 X3 C
+    ('H34T05', 30000), # Gen4 X3 T
+    ('H34T08', 30000), # Gen4 X3 T
+    ('H34T10', 30000), # Gen4 X3 T
+    ('H34T12', 30000), # Gen4 X3 T
+    ('H34T15', 30000), # Gen4 X3 T
     ### All known Inverters added
 ]
 
